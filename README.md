@@ -19,7 +19,7 @@ Pour exécuter ce projet, ouvrez le fichier **swiftAppNotify.xcodeproj** dans Xc
 Ce projet a été créé par Akira Santhakumaran.
 
 ## Prévisualisations
-(![Capture d’écran 2024-04-25 à 19 08 53](https://github.com/Akira98000/swift.mvcArchLearning/assets/75495075/31b9e20c-e3ae-42b3-b854-7c495f01597d)
+![Capture d’écran 2024-04-25 à 19 08 53](https://github.com/Akira98000/swift.mvcArchLearning/assets/75495075/31b9e20c-e3ae-42b3-b854-7c495f01597d)
 
 ## Remarque
 
