@@ -1,5 +1,11 @@
-import SwiftUI
+//
+//  ContentView.swift
+//  swiftAppNotify
+//
+//  Created by Akira Santhakumaran on 4/25/24.
+//
 
+import SwiftUI
 
 struct AkiBankContainerRepresentable: UIViewRepresentable {
     let model: AkiBankModel
